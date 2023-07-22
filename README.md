@@ -12,6 +12,7 @@ C# Class Library serving as a Wrapper DLL for OCR and Image Processing
 Tesseract for OCR functionality
 EMGUCV for Image PreProcessing
 ZXing for QR code reading
+MySQL Database
 Abstract:
 The LetsTextify project aims to streamline the conversion of physical documents into digital format. With the use of OCR, it efficiently extracts text from images, eliminating the need for manual transcription. Whether you have a single page or multiple pages of the same type, LetsTextify can be the perfect solution.
 
